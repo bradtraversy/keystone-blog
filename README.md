@@ -6,9 +6,14 @@ Rename config.env to .env and add your database URI
 
 ## Running the Project.
 
-To run this project first run `npm install`
+Install dependencies with `npm install`
 
-Once running the Keystone Admin UI is reachable via: `localhost:3000/admin`.
+Run `npm run dev`
+
+Admin UI - `localhost:5000/admin`
+Graphiql Client - `localhost:5000/admin/graphql`
+API Endpoint - `localhost:5000/admin/api`
+
 
 ## Next steps
 
