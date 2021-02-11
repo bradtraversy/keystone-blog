@@ -2,7 +2,7 @@
 
 Blog API created with KeystoneJS
 
-You probably want to add Lists, Authentication, Access control and a front-end application.
+Rename config.env to .env and add your database URI
 
 ## Running the Project.
 
