@@ -10,9 +10,9 @@ Install dependencies with `npm install`
 
 Run `npm run dev`
 
-Admin UI - `localhost:5000/admin`
-Graphiql Client - `localhost:5000/admin/graphql`
-API Endpoint - `localhost:5000/admin/api`
+* Admin UI - `http://localhost:5000/admin`
+* Graphiql Client - `http://localhost:5000/admin/graphql`
+* API Endpoint - `http://localhost:5000/admin/api`
 
 
 ## Next steps
