@@ -4,20 +4,20 @@ const userFields = {
   fields: {
     name: {
       type: Text,
-      isRequire: true,
+      isRequired: true,
     },
     email: {
       type: Text,
-      isRequire: true,
+      isRequired: true,
       isUnique: true,
     },
     password: {
       type: Password,
-      isRequire: true,
+      isRequired: true,
     },
     isAdmin: {
       type: Checkbox,
-      isRequire: true,
+      isRequired: true,
     },
   },
 }
